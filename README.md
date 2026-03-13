@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá 👋 Eu sou a Marcela Nogueira
 
-<!--
-**Marcela-prog/Marcela-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento Full Stack Java  
+🎓 Tecnóloga em Cibersegurança  
+🚀 Focada em evoluir no desenvolvimento web e construir projetos reais
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Desenvolvimento Front-End (em estudo)
+
+- HTML5 (semântico)
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- Consumo de APIs REST
+- Ajax
+- Fetch API
+
+### 🛠 Ferramentas e frameworks que estou estudando
+
+- Bootstrap
+- jQuery
+- React.js (conceitos iniciais)
+- SASS / SCSS
+- Design Responsivo e Mobile First
+
+---
+
+## 🔜 Próximos passos
+
+Atualmente aprofundando **Front-End** e me preparando para iniciar meus estudos em **Back-End com Java**, com foco em me tornar **Desenvolvedora Full Stack Java**.
+
+---
+
+## ⚙️ Ferramentas
+
+- Git
+- GitHub
+- NPM
+- Vercel
+
+---
+
+## 📫 Contato
+
+LinkedIn: ## 📫 Contato
+
+🔗 [LinkedIn](https://www.linkedin.com/in/marcela-nogueira-855272191)
+📧 [Email](mailto:mahhnogueira100@gmail.com)
