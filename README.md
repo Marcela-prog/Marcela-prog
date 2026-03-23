@@ -43,6 +43,12 @@
 
 ---
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🔜 Próximos passos
 
 Atualmente aprofundando **Front-End** e me preparando para iniciar meus estudos em **Back-End com Java**, com foco em me tornar **Desenvolvedora Full Stack Java**.
