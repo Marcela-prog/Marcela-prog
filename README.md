@@ -43,6 +43,8 @@
 
 ---
 
+## 🐍 Meus commits
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake.svg">
@@ -53,7 +55,9 @@
 
 Atualmente aprofundando **Front-End** e me preparando para iniciar meus estudos em **Back-End com Java**, com foco em me tornar **Desenvolvedora Full Stack Java**.
 
-##
+---
+
+## 👉 📫 Entre em contato
 
   <div>
   <a href="mailto:mahhnogueira100@gmail.com">
