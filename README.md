@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/marcela-nogueira-855272191" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://landing-page-coraline-xpch.vercel.app/" target="_blank">
+  <a href="https://projeto-landing-page-jet.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
 </div>
@@ -92,7 +92,7 @@ Tem uma ideia, precisa de um site novo ou quer melhorar o que já tem? Me manda 
   <a href="https://www.linkedin.com/in/marcela-nogueira-855272191" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://landing-page-coraline-xpch.vercel.app/" target="_blank">
+  <a href="https://projeto-landing-page-jet.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
 </div>
