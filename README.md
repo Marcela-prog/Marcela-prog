@@ -1,11 +1,12 @@
 <h1>Olá 👋 Eu sou a Marcela Nogueira</h1>
 
-💼 Desenvolvedora Front-end Freelancer
-🎨 Crio sites e interfaces responsivas, rápidas e bem construídas
-🎓 Tecnóloga em Cibersegurança: desenvolvo com boas práticas de segurança desde o início
-💻 Estudando Back-end com Java
+💻 Desenvolvedora Front-End  
+🎓 Tecnóloga em Cibersegurança  
+🚀 Em formação para me tornar Desenvolvedora Full Stack  
 
-🟢 **Disponível para projetos freelance**: me chama e vamos tirar seu projeto do papel!
+Concluí minha formação em Front-End e atualmente estou estudando Back-End como próxima etapa da minha evolução profissional.
+
+Desenvolvo interfaces responsivas, organizadas e funcionais utilizando HTML5, CSS3, JavaScript, TypeScript, React, Next.js e Vue.js. Paralelamente, estudo APIs REST, servidores, bancos de dados e outros fundamentos necessários para construir aplicações completas.
 
 <div>
   <a href="mailto:mahhnogueira100@gmail.com">
@@ -19,48 +20,142 @@
   </a>
 </div>
 
-## 🛠️ O que eu faço
+## Sobre mim
 
-* Landing pages e sites institucionais
-* Transformo layouts em código fiel ao design
-* Interfaces responsivas
-* Integração do front com APIs REST
-* Manutenção e melhorias em sites existentes
+Sou desenvolvedora Front-End, Tecnóloga em Cibersegurança e estou me preparando para atuar como desenvolvedora Full Stack.
 
-## ✨ Por que trabalhar comigo
+Concluí minha formação em Front-End, na qual desenvolvi conhecimentos em HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vue.js, responsividade, acessibilidade e integração com APIs.
 
-* 📱 Sites responsivos, que se adaptam a qualquer tamanho de tela
-* 🔒 Boas práticas de segurança, graças à minha formação em Cibersegurança
-* 🧹 Código limpo e organizado, fácil de manter e evoluir
-* 💬 Comunicação clara do início ao fim do projeto
+Atualmente, estou estudando Back-End como parte do meu objetivo de compreender e desenvolver aplicações completas, desde a interface até o servidor e o banco de dados.
 
-## 💻 Tecnologias
+Meu foco é evoluir de forma consistente em desenvolvimento web, integração entre aplicações e boas práticas de segurança.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+## Tecnologias de Front-End
+
+<div style="display: inline_block">  
+
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="jQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="SASS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Less" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="Gulp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
 </div>
 
-<br>
+## Conhecimentos e habilidades
 
-* Consumo de APIs REST (Fetch API e Ajax)
-* Design Responsivo 
-* POO (Programação Orientada a Objetos)
+- HTML5 e estruturação semântica de páginas;
+- CSS3 e criação de layouts responsivos;
+- JavaScript moderno com ES6+;
+- TypeScript;
+- React;
+- Next.js;
+- Vue.js;
+- Design Responsivo e Mobile First;
+- Consumo de APIs REST;
+- Fetch API;
+- Ajax;
+- Manipulação do DOM;
+- Programação Orientada a Objetos;
+- Criação de formulários e interações;
+- Organização de projetos Front-End;
+- Versionamento de código com Git e GitHub;
+- Publicação de projetos utilizando Vercel.
 
-## ⚙️ Ferramentas
+## Estudos de Back-End
 
-* Git
-* GitHub
-* NPM
-* Vercel (deploy dos projetos)
+Atualmente, estou estudando Back-End como parte do meu objetivo de me tornar uma desenvolvedora Full Stack.
+
+Entre os temas que fazem parte dos meus estudos estão:
+
+- APIs REST;
+- Comunicação entre Front-End e servidor;
+- Integração entre aplicações;
+- Lógica de programação;
+- Autenticação;
+- Rotas;
+- Bancos de dados;
+- Estrutura de aplicações web;
+- Boas práticas de desenvolvimento;
+- Segurança no desenvolvimento de aplicações.
+
+## Formação e certificações
+
+### EBAC
+
+Concluí minha formação em desenvolvimento Front-End pela EBAC, com estudos e práticas envolvendo:
+
+- HTML5;
+- CSS3;
+- JavaScript ES6+;
+- TypeScript;
+- React;
+- Next.js;
+- Vue.js;
+- Desenvolvimento de interfaces responsivas;
+- Integração com APIs;
+- Organização de projetos Front-End;
+- Publicação de aplicações web.
+
+### Bootcamp DIO + Santander
+
+Participei do bootcamp DIO + Santander, com estudos e práticas relacionados a:
+
+- Large Language Models (LLMs );
+- Machine Learning;
+- APIs REST;
+- Rust;
+- Desenvolvimento e integração de aplicações.
+
+## Projeto de estudo em Rust
+
+Durante meus estudos, também desenvolvi uma aplicação de carteira de investimentos utilizando Rust.
+
+O projeto foi criado para praticar conceitos de desenvolvimento Back-End, como:
+
+- Estruturação de uma aplicação;
+- Lógica de programação;
+- Rotas e handlers;
+- Autenticação;
+- Banco de dados;
+- Organização de código;
+- Integração entre diferentes partes de uma aplicação.
+
+O estudo em Rust faz parte da minha formação complementar e amplia minha visão sobre desenvolvimento de software.
+
+## Ferramentas
+
+- Git;
+- GitHub;
+- NPM;
+- Vercel;
+- Visual Studio Code;
+- Gulp;
+- Sass;
+- Less;
+- Bootstrap.
+
+## Projetos
+
+Meus projetos públicos apresentam práticas de desenvolvimento Front-End, como:
+
+- Criação de landing pages;
+- Desenvolvimento de sites institucionais;
+- Construção de interfaces responsivas;
+- Criação de páginas temáticas;
+- Consumo de APIs;
+- Desenvolvimento de aplicações com JavaScript;
+- Criação de formulários e interações;
+- Organização de estilos com Sass e Less;
+- Automação de tarefas com Gulp;
+- Publicação de aplicações na Vercel.
+
+Os projetos relacionados a Back-End e outras tecnologias permanecem como parte dos meus estudos complementares no desenvolvimento da minha trajetória para Full Stack.
 
 <div align="left">
   <a href="https://github.com/marcela-prog">
@@ -72,18 +167,30 @@
 ## 🐍 Meus commits
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcela-prog/marcela-prog/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🔜 Próximos passos
+## Próximos passos
 
-Meu foco é o **Front-End**: entregar interfaces de qualidade para clientes freelance. Paralelamente, estou estudando **Back-End com Java** para entender melhor a integração entre front e servidor.
+Meu objetivo profissional é me tornar uma Desenvolvedora Full Stack.
 
-## 👉 📫 Vamos conversar sobre o seu projeto?
+Depois de concluir minha formação em Front-End, comecei a estudar Back-End para ampliar minha visão sobre o desenvolvimento de aplicações completas.
 
-Tem uma ideia, precisa de um site novo ou quer melhorar o que já tem? Me manda uma mensagem!
+Atualmente, estou aprofundando meus conhecimentos em:
+
+- APIs REST;
+- Servidores;
+- Bancos de dados;
+- Autenticação;
+- Integração entre Front-End e Back-End;
+- Java;
+- Rust;
+- Boas práticas de desenvolvimento;
+- Segurança de aplicações.
+
+No Front-End, continuo evoluindo com React, Next.js, Vue.js e TypeScript, enquanto avanço nos estudos de Back-End para construir soluções cada vez mais completas.
 
 <div>
   <a href="mailto:mahhnogueira100@gmail.com">
