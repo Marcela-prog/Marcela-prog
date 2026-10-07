@@ -1,14 +1,22 @@
 # Olá 👋 Eu sou a Marcela Nogueira
 
-💻 **Desenvolvedora Front-end, estudando Back-end**
+💻 **Desenvolvedora Front-end**
 
 🎓 Formada em **Cibersegurança**
 
 🌱 Estudando **Java e desenvolvimento Back-end** para ampliar minha atuação e evoluir para Full Stack.
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahhnogueira100@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Portfólio](https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=vercel&logoColor=white)](SEU_PORTFOLIO)
+<div>
+<a href="mailto:mahhnogueira100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/marcela-nogueira-855272191" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://projeto-landing-page-jet.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+</div>
 
 ---
 
@@ -62,6 +70,14 @@ Meu foco é aprofundar meus conhecimentos em **Back-end com Java** e integrar es
 
 ## 📫 Vamos conversar?
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahhnogueira100@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Portfólio](https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=vercel&logoColor=white)](SEU_PORTFOLIO)
+<div>
+<a href="mailto:mahhnogueira100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/marcela-nogueira-855272191" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://projeto-landing-page-jet.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+</div>
