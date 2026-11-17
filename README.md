@@ -52,11 +52,12 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcela-prog&show_icons=true&theme=transparent)
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=Marcela-prog&show_icons=true&theme=transparent)
 
 ## 💻 Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela-prog&layout=compact&theme=transparent)
+![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Marcela-prog&layout=compact&theme=transparent)
+
 
 ## 🐍 Meus commits
 
